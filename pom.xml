@@ -28,7 +28,7 @@
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <commons-collections4.version>4.1</commons-collections4.version>
         <aliyun-java-sdk-core.version>4.1.0</aliyun-java-sdk-core.version>
-        <fastjson.version>1.2.58</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencyManagement>
